@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio sequence-property-calculator."""
 
 from .client import PepkioClient

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """HTTP client for the Pepkio sequence-property-calculator tool."""
 
 from __future__ import annotations
