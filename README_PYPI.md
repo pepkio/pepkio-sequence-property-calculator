@@ -65,3 +65,5 @@ Pepkio (https://www.pepkio.com/) develops software tools and provides bioinforma
 # Keywords
 
 sequence property calculator, FASTA calculator, molecular weight calculator, protein pI calculator, GC content calculator, sequence analysis API, DNA RNA protein calculator, oligo molecular weight, dilution calculator, serial dilution planning, ligation insert mass, cloning calculator, bioinformatics Python package, Pepkio tools API, laboratory calculation automation, sequence workflow scripting, notebook-ready sequence calculations, run Pepkio sequence calculator from Python, FASTA to MW and pI in API workflow, API-based dilution and ligation planning
+
+A semantic, AI-native version of this document in the K2F format is available at https://k2f.dev (https://k2f.dev/v/d38f81c50f1a4a0dd263ea79d059e9098e3addd6de3bb407f89f7cde6dd3b6d1)
